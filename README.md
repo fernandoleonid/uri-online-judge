@@ -1,4 +1,11 @@
-# URI ONLINE JUDGE
+# URI ONLINE JUDGE Soluções
+
+Adicionei algumas soluções de problemas de URI em javascript.
+
+A ideia é você tentar primeiro e depois verificar neste repositório para comparar as soluções.
+
+
+### Soluções disponíveis neste repositório:
 
 | Problema  |  Nome  |  Solução  |
 | --------- | ------ | --------- |
