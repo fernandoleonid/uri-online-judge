@@ -4,7 +4,7 @@ Adicionei algumas soluções dos problemas do site [URI Online judge](https://ww
 
 A ideia é você tentar primeiro e depois verificar neste repositório para comparar as soluções.
 
-[Soluções](https://www.youtube.com/playlist?list=PLDgemkIT111CrpGu9s4dICdOJYHGbgAiX) passo a passo.
+[Soluções](https://www.youtube.com/watch?v=luBT_3FSwUA&list=PLDgemkIT111CrpGu9s4dICdOJYHGbgAiX&index=1) passo a passo.
 
 
 ### Soluções disponíveis neste repositório:
